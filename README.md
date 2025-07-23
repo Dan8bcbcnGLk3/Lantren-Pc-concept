@@ -41,10 +41,6 @@ To build your own Lantern-PC, follow these basic steps:
    Provide adequate power for the PC, FPGA, and LED lanterns (power consumption depends mainly on LED brightness).
 
 ## Project Structure
-
-- `/code/` – FPGA firmware, software rendering code
-- `/hardware/` – Schematics, wiring diagrams
-- `/docs/` – Project documentation and explanations
 - `/media/` – Photos, videos, and demos
 
 ## Contribution
