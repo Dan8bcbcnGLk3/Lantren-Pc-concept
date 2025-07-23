@@ -1,4 +1,4 @@
-# Lantern-PC
+# Lantern-PC concept
 
 Lantern-PC is an innovative computer project that replaces a traditional screen with a high-speed RGB LED lantern grid.  
 It achieves ultra-high frame rates (over 100,000 FPS) and near-zero latency, creating a smooth and futuristic visual experience.
