@@ -97,7 +97,40 @@ To build your own Lantern-PC, follow these basic steps:
 6. **Develop or Use Software**  
    Run custom rendering software that converts game frames or UI elements into LED color data and sends it to the FPGA controller.
 
-7. **Power the System**  
+7. ## Power the System
+Power-On Behavior:
+
+Pressing the power button turns on the PC, FPGA, and lanterns.
+
+The system boots into Windows and shows UI via the lantern display.
+
+An optional boot animation can pulse across the lanterns to indicate startup.
+
+Power-Off Behavior:
+
+Pressing the power button again safely shuts down Windows and turns off the lanterns.
+
+Soft Reset:
+
+Hold the power button for 5 seconds to trigger a soft reset of the entire system.
+
+Optional Sleep Mode:
+
+Lanterns dim or turn off.
+
+RAM and system state are preserved.
+
+Instant wake-on-input.
+
+Surge/Battery Protection (Optional):
+
+Prevent data loss with a backup battery or UPS.
+
+Can trigger safe shutdown during outages.
+
+Visual Indicators:
+
+Use lanterns to show status animations like errors, sleep mode, or ready state.
  
 ## Contribution
 
