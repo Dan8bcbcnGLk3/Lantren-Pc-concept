@@ -12,7 +12,7 @@ It achieves ultra-high frame rates (over 100,000 FPS) and near-zero latency, cre
 - Runs standard PC software (Windows, games) through a custom rendering pipeline
 - Optional surround sound and startup animations
 
-🧠 How Lantern-PC Works
+## 🧠 How Lantern-PC Works
 Lantern-PC is a breakthrough display technology that replaces traditional monitors with a custom grid of RGB LED lanterns controlled by an FPGA and CPU. It achieves ultra-high frame rates (100,000+ FPS) and near-zero input latency using parallel hardware and custom software.
 
 🔷 System Overview
