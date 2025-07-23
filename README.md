@@ -39,7 +39,7 @@ To build your own Lantern-PC, follow these basic steps:
 
 ## Project Structure
 
-- `/How Lantern-PC Works/`
+How Lantern-PC Works
 - `/media/` – Photos, videos, and demos
 
 ## Contribution
