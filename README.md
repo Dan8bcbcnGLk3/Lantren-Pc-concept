@@ -97,7 +97,7 @@ To build your own Lantern-PC, follow these basic steps:
 6. **Develop or Use Software**  
    Run custom rendering software that converts game frames or UI elements into LED color data and sends it to the FPGA controller.
 
-7. ## Power the System
+7. **Power the System**
 Power-On Behavior:
 
 Pressing the power button turns on the PC, FPGA, and lanterns.
